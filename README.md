@@ -172,6 +172,14 @@ https://www.youtube.com/watch?v=iheUPW5DIY
 
 # BIBLIOGRAFIA
 
+Fundación Endesa. (17 de Agosto de 2022). Endesa. Obtenido de Endesa: 
+
+https://www.fundacionendesa.org/es/educacion/endesa-educa/recursos/corrientes-alternas-con-un-transformador-electrico
+
+MecatrónicaLATAM. (18 de Agosto de 2022). MecatrónicaLATAM. Obtenido de MecatrónicaLATAM:
+
+https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/inductor/
+
 Floyd T.L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México: Pearson Educación de México
 
 # RUBRICA 
