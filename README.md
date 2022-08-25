@@ -16,6 +16,11 @@
 
 # MARCO TEORICO 
 
+![image](https://user-images.githubusercontent.com/105691698/186742284-7c5dc93e-0449-4de0-89b4-31df255c64ab.png)
+
+
+
+
 # RESOLUCION DE EJERCICIOS
 
 PARTE 1: CIRCUITOS EN SERIE SECCIÓN 15–1 El sistema de los números complejos
