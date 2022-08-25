@@ -84,6 +84,72 @@ c) 5 ∠ 310°
 
 ![image](https://user-images.githubusercontent.com/105691698/186728789-07f34bba-d831-495f-a719-9cafe603c39e.png)
 
+12) Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.
+
+El ejercicio a se encuentra en el 2do cuadrante
+
+El ejercicio b se encuentra en el 1er cuadrante
+
+El ejercicio c se encuentra en el 4to cuadrante
+
+14) Sume los siguientes conjuntos de números complejos
+
+a) 9+j3 y 5 + j8
+
+![image](https://user-images.githubusercontent.com/105691698/186738188-ca7c1a9d-ac8f-4dc9-80be-07f841f1ffd8.png)
+
+b) 3.5-j4 y 2.2+j6
+
+![image](https://user-images.githubusercontent.com/105691698/186738722-eb837ed0-ca12-466a-b7b8-d7173168ea32.png)
+
+c) -18+j23 y 30-j15
+
+![image](https://user-images.githubusercontent.com/105691698/186738806-bbf4523c-17b0-4f82-8085-a01810cf0d16.png)
+
+
+d) 12 ∠ 45° y 20 ∠ 32°
+
+![image](https://user-images.githubusercontent.com/105691698/186738959-a8b8b334-a272-4510-bc96-9cff636cfce2.png)
+
+
+16) Multiplique los siguientes números
+
+a) 4.5 ∠ 48° y 3.2 ∠ 90°
+
+![image](https://user-images.githubusercontent.com/105691698/186739376-fb523e7c-5a7b-4261-b991-164ac96990bb.png)
+
+b) 120 ∠ -220° y 95 ∠ 200°
+
+![image](https://user-images.githubusercontent.com/105691698/186739431-bf931cf8-2d5a-4164-93bd-4f85156265a3.png)
+
+c) -3 ∠ 150° y 4-j3 
+
+![image](https://user-images.githubusercontent.com/105691698/186739482-ec8bcc69-2a2e-49e8-a125-a2e7246f3c1d.png)
+
+d) 67+j84 y 102 ∠ 40°
+
+![image](https://user-images.githubusercontent.com/105691698/186740107-e09241c0-36c9-4294-94a1-29c34abdadd2.png)
+
+Sección 15-3 Impedancia de circuitos RC en serie 
+
+22) Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85
+
+![image](https://user-images.githubusercontent.com/105691698/186740275-011eab56-b1af-4c9f-8fe4-e2bdd72199f3.png)
+
+![image](https://user-images.githubusercontent.com/105691698/186740380-9e0c46cc-73a2-4d8e-b92e-081b32bc3ded.png)
+
+![image](https://user-images.githubusercontent.com/105691698/186740302-ecdf30df-ea4f-4d76-8eff-c4df9d2fecdf.png)
+
+![image](https://user-images.githubusercontent.com/105691698/186740532-59949332-af37-4487-b770-9d02d671e3d8.png)
+
+15-8 Potencia en circuitos RC
+
+58- En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
+
+![image](https://user-images.githubusercontent.com/105691698/186740673-15b1e57f-b5ed-4456-b31e-90a848f8f031.png)
+
+![image](https://user-images.githubusercontent.com/105691698/186740695-4954fbb8-f8bd-40bc-8aa9-92ab3b109b96.png)
+
 
 Video
 
@@ -98,6 +164,8 @@ https://www.youtube.com/watch?v=iheUPW5DIY
 ► La eleboración del informe nos ayuda a poder plasmar los conocimientos adquiridos tanto en clases como la autoeducación por parte de la lectura de los libros           recomendados por el docente.
 
 # BIBLIOGRAFIA
+
+Floyd T.L. (2007). PRINCIPIOS DE CIRCUITOS ELÉCTRICOS. (8va ed.). México: Pearson Educación de México
 
 # RUBRICA 
 
