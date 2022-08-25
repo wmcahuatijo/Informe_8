@@ -16,9 +16,11 @@
 
 # MARCO TEORICO 
 
-![image](https://user-images.githubusercontent.com/105691698/186742284-7c5dc93e-0449-4de0-89b4-31df255c64ab.png)
+![image](https://user-images.githubusercontent.com/105691698/186744476-a49a2c59-9ba2-42d2-a9e6-eebc3c72f37b.png)
 
-![image](https://user-images.githubusercontent.com/105691698/186744248-b3fe8d28-abe1-44e8-8b34-94521a90fbdd.png)
+
+![image](https://user-images.githubusercontent.com/105691698/186744380-44e4463e-9a38-47b7-93f0-746cccaa96bd.png)
+
 
 
 # RESOLUCION DE EJERCICIOS
